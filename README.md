@@ -18,5 +18,21 @@ Python scripts
 - ridge.py      : runs simulation routines for Ridge regression models and saves results
 
 Notebook:
-- plot_results.ipynb : Load the results and plot the Figures of the paper 
+- plot_results.ipynb : Load the results and plot the Figures of the paper
+
+## Citation
+
+If you refer to this work, please cite as
+
+```
+@article{
+leluc2023asymptotic,
+title={Asymptotic Analysis of Conditioned Stochastic Gradient Descent},
+author={R{\'e}mi Leluc and Fran{\c{c}}ois Portier},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=U4XgzRjfF1},
+note={}
+}
 
