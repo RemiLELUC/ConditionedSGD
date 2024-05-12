@@ -1,6 +1,8 @@
 # Asymptotic Analysis of Conditioned Stochastic Gradient Descent
 
-This is the code for the article "Asymptotic Analysis of Conditioned Stochastic Gradient Descent", by Rémi Leluc and François Portier, published at Transactions on Machine Learning Research (08/2023) and available on OpenReview at [this url](https://openreview.net/forum?id=U4XgzRjfF1).
+This is the code for the article "Asymptotic Analysis of Conditioned Stochastic Gradient Descent", by Rémi Leluc and François Portier, published at *Transactions on Machine Learning Research (08/2023)* and available on OpenReview at [this url](https://openreview.net/forum?id=U4XgzRjfF1).
+
+This implementation is made by [Rémi LELUC](https://remileluc.github.io/).
 
 ## Description
 
