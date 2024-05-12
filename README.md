@@ -26,7 +26,7 @@ Notebook:
 
 If you refer to this work, please cite as
 
-```
+```bibtex
 @article{
 leluc2023asymptotic,
 title={Asymptotic Analysis of Conditioned Stochastic Gradient Descent},
@@ -35,6 +35,6 @@ journal={Transactions on Machine Learning Research},
 issn={2835-8856},
 year={2023},
 url={https://openreview.net/forum?id=U4XgzRjfF1},
-note={}
-}
+note={}}
+```
 
